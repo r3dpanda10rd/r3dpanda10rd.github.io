@@ -2,7 +2,7 @@
 
 [Back to Home](/)
 
-##Me (pron.)
+## Me (pron.)
 
 a pronoun of the first person in oblique cases, Old English me (dative), me, mec (accusative); oblique cases of I, from Proto-Germanic *meke (accusative), *mes (dative), source also of Old Frisian mi/mir, Old Saxon mi, Middle Dutch mi, Dutch mij, Old High German mih/mir, German mich/mir, Old Norse mik/mer, Gothic mik/mis; from PIE root *me-, oblique form of the personal pronoun of the first person singular (nominative *eg; see I); source also of Sanskrit, Avestan mam, Greek eme, Latin me, mihi, Old Irish me, Welsh mi "me," Old Church Slavonic me, Hittite ammuk.
 
